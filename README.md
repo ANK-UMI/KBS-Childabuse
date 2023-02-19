@@ -5,6 +5,6 @@ KBS 아동학대 아카이브 사이트 웹개발의 일부를 담당하였습�
 
 https://news.kbs.co.kr/special/childabuse/index.html
 
-<img width="1916" alt="화면 캡처 2023-02-19 223554" src="https://user-images.githubusercontent.com/54223902/219951790-79b20a5d-28ca-4ba0-9f1c-ce49b6c637f2.png">
-<img width="1919" alt="화면 캡처 2023-02-19 223441" src="https://user-images.githubusercontent.com/54223902/219951804-da9d763f-a0bd-4baa-80a4-e93cb32c91fe.png">
-<img width="1919" alt="화면 캡처 2023-02-19 223329" src="https://user-images.githubusercontent.com/54223902/219951807-eec8238f-77ed-40a0-a240-b5ad74056198.png">
+<img width="1917" alt="화면 캡처 2023-02-19 223946" src="https://user-images.githubusercontent.com/54223902/219951956-78f4f5d5-96f9-4846-807c-21e06d0a1716.png">
+<img width="1916" alt="화면 캡처 2023-02-19 224013" src="https://user-images.githubusercontent.com/54223902/219951958-001f6fec-2ffe-4603-81b0-bceb9696f601.png">
+<img width="1917" alt="화면 캡처 2023-02-19 224043" src="https://user-images.githubusercontent.com/54223902/219951961-5977b660-a2b8-45b2-9afd-a53295a2762e.png">
